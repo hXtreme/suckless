@@ -1,0 +1,19 @@
+#! /bin/sh
+
+## My dwm startup script
+# This runs dwm and allows you to restart dwm without logging out.
+
+csum=$(sha1sum $(which dwm))
+new_sum=""
+while true;
+do
+	if [ "$csum" != "$new_csum" ]
+	then
+		csum=$new_csum
+		dwm
+	else
+		exit 0
+	fi
+	new_csum=$(sha1sum $(which dwm))
+	sleep 10
+done

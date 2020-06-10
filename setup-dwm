@@ -1,0 +1,17 @@
+#! /bin/sh
+
+## Setup dwm for use
+# This script creates files and folder to make it easier to start using my 
+# build of dwm. Make sure you check the script before executing and make changes as necessary.
+# The setup does the following:
+# 	1) Place the dwm.desktop file to xsessions.
+# 	2) Place the startdwm script to /usr/bin.
+# 	3) Create directories for dwm-autostart
+# 	4) Place autostart scripts in ~/.config/dwm
+
+sudo cp ./dwm.desktop /usr/share/xsessions
+sudo cp ./startdwm /usr/bin
+mkdir -p "$HOME"/.config/dwm
+cp ./.config/dwm/* "$HOME"/.config/dwm
+
+

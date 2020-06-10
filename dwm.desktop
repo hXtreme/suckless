@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=XSession
+Exec=/usr/bin/startdwm
+TryExec=/usr/bin/startdwm
+DesktopNames=dwm-suckless
+Name=dwm
+Comment=Harsh's build of suckless/dwm
