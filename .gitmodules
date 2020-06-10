@@ -1,21 +1,21 @@
 [submodule "surf"]
 	path = surf
-	url = https://git.suckless.org/surf
+	url = https://github.com/hXtreme/suckless-surf
 [submodule "tabbed"]
 	path = tabbed
-	url = https://git.suckless.org/tabbed
+	url = https://github.com/hXtreme/suckless-tabbed
 [submodule "dmenu"]
 	path = dmenu
-	url = https://git.suckless.org/dmenu
+	url = https://github.com/hXtreme/suckless-dmenu
 [submodule "slstatus"]
 	path = slstatus
-	url = https://git.suckless.org/slstatus
+	url = https://github.com/hXtreme/suckless-slstatus
 [submodule "wmname"]
 	path = wmname
-	url = https://git.suckless.org/wmname
+	url = https://github.com/hXtreme/suckless-wmname
 [submodule "dwm"]
 	path = dwm
-	url = https://git.suckless.org/dwm
+	url = https://github.com/hXtreme/suckless-dwm
 [submodule "st"]
 	path = st
-	url = https://git.suckless.org/st
+	url = https://github.com/hXtreme/suckless-st
