@@ -19,3 +19,6 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/hXtreme/suckless-st
+[submodule "slock"]
+	path = slock
+	url = git@github.com:hXtreme/suckless-slock.git
