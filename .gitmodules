@@ -22,3 +22,6 @@
 [submodule "slock"]
 	path = slock
 	url = git@github.com:hXtreme/suckless-slock.git
+[submodule "sxiv"]
+	path = sxiv
+	url = https://github.com/muennich/sxiv.git
