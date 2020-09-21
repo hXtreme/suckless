@@ -28,3 +28,6 @@
 [submodule "sites"]
 	path = sites
 	url = git://git.suckless.org/sites
+[submodule "smu"]
+	path = smu
+	url = git@github.com:hXtreme/smu.git
