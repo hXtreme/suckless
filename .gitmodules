@@ -25,3 +25,6 @@
 [submodule "sxiv"]
 	path = sxiv
 	url = https://github.com/muennich/sxiv.git
+[submodule "sites"]
+	path = sites
+	url = git://git.suckless.org/sites
