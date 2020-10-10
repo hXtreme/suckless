@@ -21,7 +21,7 @@
 	url = https://github.com/hXtreme/suckless-st
 [submodule "slock"]
 	path = slock
-	url = git@github.com:hXtreme/suckless-slock.git
+	url = https://github.com/hXtreme/suckless-slock.git
 [submodule "sxiv"]
 	path = sxiv
 	url = https://github.com/muennich/sxiv.git
@@ -30,4 +30,4 @@
 	url = git://git.suckless.org/sites
 [submodule "smu"]
 	path = smu
-	url = git@github.com:hXtreme/smu.git
+	url = https://github.com/hXtreme/smu.git
