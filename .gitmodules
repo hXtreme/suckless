@@ -33,7 +33,7 @@
 	url = https://github.com/hXtreme/smu.git
 [submodule "dmenu-python"]
 	path = dmenu-python
-	url = git@github.com:allonhadaya/dmenu-python.git
+	url = git@github.com:hxtreme/dmenu-python.git
 [submodule "dwm-bar"]
 	path = dwm-bar
 	url = git@github.com:joestandring/dwm-bar.git
